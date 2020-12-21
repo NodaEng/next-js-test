@@ -5,7 +5,11 @@ function Home() {
         <div>
             <h1>Home</h1>
             <Link href="/sobre">
-                <a >Sobre</a>
+                <a>Sobre</a>
+            </Link>
+            <br/>
+            <Link href="/tempo">
+                <a>Tempo</a>
             </Link>
         </div>
     )
